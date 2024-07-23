@@ -1,1 +1,1 @@
-Functional python experiments.
+Experimental functional python library.
